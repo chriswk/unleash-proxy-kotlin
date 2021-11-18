@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: unleash.proxy.kotlin
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, config4k, gradle, http-client, junit, kotlin, kotlin-application, kotlin-build, logback, management, micrometer, micrometer-prometheus, micronaut-build, netty-server, openapi, readme, shade, security-annotations, security-jwt]
